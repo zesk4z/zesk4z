@@ -13,7 +13,7 @@
 Soy **Jeremías Firmani**, **Especialista en Soluciones de IA** trabajando como freelancer en el desarrollo de aplicaciones inteligentes y automatización de procesos.  
 Me especializo en la implementación práctica de **IA generativa** para resolver problemas reales de negocio, combinando tecnologías de última generación con desarrollo web.
 
-🌐 Explorá mi [landing page profesional](https://jeremias-firmani.netlify.app/), donde podés interactuar con mis soluciones de IA personalizadas.
+🌐 Explorá mi [landing page profesional](https://jeremiasfirmani.netlify.app/), donde podés interactuar con mis soluciones de IA personalizadas.
 
 ---
 
