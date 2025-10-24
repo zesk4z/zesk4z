@@ -5,12 +5,18 @@
   </a>
 </p>
 
+<!-- Animación 3D -->
+<p align="center">
+  <img src="ImageToStl.com_card.glb.gif" alt="3D Animation" width="300"/>
+</p>
+
 ---
 
 <!-- Presentación -->
 <h3>Sobre mí</h3>
 
 Soy **Jeremías Firmani**, **Especialista en Soluciones de IA** trabajando como freelancer en el desarrollo de aplicaciones inteligentes y automatización de procesos.  
+
 Me especializo en la implementación práctica de **IA generativa** para resolver problemas reales de negocio, combinando tecnologías de última generación con desarrollo web.
 
 🌐 Explorá mi [landing page profesional](https://jerefirmani-ai.netlify.app/), donde podés interactuar con mis soluciones de IA personalizadas.
