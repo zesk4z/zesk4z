@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <a href="https://jeremias-firmani.netlify.app/">
+  <a href="https://jerefirmani-ai.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=1000&color=1E40AF&lines=Hola%2C+soy+Jerem%C3%ADas+Firmani;Especialista+en+Soluciones+de+IA+%7C+Freelancer;Desarrollo+Aplicaciones+Inteligentes+y+Agentes+Conversacionales;Automatizaci%C3%B3n+con+IA+Generativa" alt="Typing SVG" />
   </a>
 
