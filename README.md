@@ -3,12 +3,6 @@
   <a href="https://jeremias-firmani.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=1000&color=1E40AF&lines=Hola%2C+soy+Jerem%C3%ADas+Firmani;Especialista+en+Soluciones+de+IA+%7C+Freelancer;Desarrollo+Aplicaciones+Inteligentes+y+Agentes+Conversacionales;Automatizaci%C3%B3n+con+IA+Generativa" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- Animación 3D -->
-<p align="center">
-  <img src="ImageToStl.com_card.glb.gif" alt="3D Animation" width="300"/>
-</p>
 
 ---
 
