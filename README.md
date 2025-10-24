@@ -37,6 +37,6 @@ Me especializo en la implementación práctica de **IA generativa** para resolve
 <h3>Contacto</h3>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20px" style="vertical-align:middle;"/> [LinkedIn](https://www.linkedin.com/in/jeremias7/)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px" style="vertical-align:middle;"/> [Portafolio](https://jeremiasfirmani.netlify.app/)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px" style="vertical-align:middle;"/> [Portafolio](https://jerefirmani-ai.netlify.app/)  
 
 ---
